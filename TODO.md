@@ -1,0 +1,21 @@
+# Thenuka Sri Lanka — Outcome Checklist
+
+- [ ] The site is branded everywhere as `THENUKA SRI LANKA`, uses the tagline `Discover the Soul of Sri Lanka.`, and displays the exact ownership credit `Designed, Created & Owned by Thenuka Sathmitha Jayasinghe` in the footer.
+- [ ] The first screen is a full-height cinematic hero with dark obsidian, emerald, ocean-blue and warm-gold styling, atmospheric imagery, island silhouette, hero copy, Explore Sri Lanka and Build My Journey CTAs, a scroll indicator, and reduced-motion support.
+- [ ] The site includes a floating glass navigation with DISCOVER, DESTINATIONS, EXPERIENCES, HOTELS, THENUKA AI, MAP and GALLERY anchors; it compresses on scroll and has an animated mobile menu.
+- [ ] The site includes a Discover Sri Lanka category rail for beaches, mountains, waterfalls, wildlife, jungles, tea country, heritage, culture, food, adventure, wellness and luxury with hover/focus treatment.
+- [ ] The destination experience includes Sigiriya, Ella, Galle, Mirissa, Yala, Nuwara Eliya, Trincomalee, Arugam Bay and Sinharaja with distinct titles, imagery, descriptions and experience metadata.
+- [ ] The interactive map room includes named destination nodes, click-to-focus behavior, hover/focus details, demo travel information and an island visual that remains usable on mobile.
+- [ ] The page includes a waterfall world rail with Ravana Falls, Diyaluma Falls, Bambarakanda Falls, Dunhinda Falls, Baker's Falls, St. Clair's Falls, Devon Falls and Aberdeen Falls plus a LISTEN TO THE ISLAND control.
+- [ ] Luxury accommodation cards show name, location, rating, amenities, category and CHECK AVAILABILITY actions without inventing prices or availability.
+- [ ] THENUKA AI includes preference steps for experience, days and travel style, a generated demo itinerary, and an animated route presentation ready for a real AI endpoint later.
+- [ ] BUILD MY JOURNEY allows destinations to be added, removed and reordered, and computes distance, estimated travel time, day count, categories and recommendations.
+- [ ] The page includes a premium experiences rail with yacht, safari, whale watching, train journey, private villa, beach dinner, tea estate, chef dinner, diving, surfing, helicopter, balloon, photography, wellness and culture experiences.
+- [ ] The photo explorer provides category filters, high-quality local imagery and an immersive lightbox with keyboard and close controls.
+- [ ] Culture and food storytelling covers The Soul of Ceylon and Taste the Island, including the requested heritage, lifestyle, cuisine and tea references.
+- [ ] The smart destination search returns animated demo recommendations for natural-language queries and is structured for an eventual AI/API adapter.
+- [ ] Demo travel information is clearly labeled and covers temperature, weather, season, sunrise, sunset, sea conditions and rain probability.
+- [ ] The site includes animated counters, subtle parallax/reveal motion, canvas particles, custom cursor behavior on desktop, touch-friendly controls and a visual scroll progress indicator.
+- [ ] SEO metadata, Open Graph/Twitter card metadata, tourism keywords, JSON-LD and `/manus-routes.json` are present.
+- [ ] The page is responsive for desktop, tablet and mobile, respects `prefers-reduced-motion`, lazy-loads non-critical imagery, and uses GPU-friendly transforms.
+- [ ] The project serves on the configured port, returns the route manifest as JSON, passes source/diagnostic review, and has a saved checkpoint.
